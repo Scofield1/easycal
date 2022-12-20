@@ -15,13 +15,13 @@ classifiers = [
 ]
 
 setup(
-    name='kbtcal',
-    version='1.2',
+    name='easycal',
+    version='1.0',
     description='This is a simple library that performs basic python arithmetic operations.',
     long_description=open('README.md').read() + '\n\n' +
     open('CHANGELOG.txt').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/Scofield1',
+    url='https://github.com/Scofield1/easycal',
     author='Abdulrauf Adebayo',
     author_email='adebayoabdulrauf1@gmail.com',
     license='MIT',
