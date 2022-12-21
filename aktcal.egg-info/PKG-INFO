@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: easycal
+Name: aktcal
 Version: 1.0
 Summary: This is a simple library that performs basic python arithmetic operations.
 Home-page: https://github.com/Scofield1/easycal
@@ -27,7 +27,7 @@ basic python arithmetic operations.
 
 ## Installation
 ```
-pip install kbtcal
+pip install aktcal
 
 ```
 
@@ -35,25 +35,25 @@ pip install kbtcal
 A guide to using the add_numbers function is as follows
 
 ```
-import kbtcal
-add_num = kbtcal.add_numbers(3, 7) # where 3 and 7 are the number you want to add
+import aktcal
+add_num = aktcal.add_numbers(3, 7) # where 3 and 7 are the number you want to add
 print(add_num)
 
 ```
 The functions in this library are:
-1. add_numbers
-2. subtract_numbers
-3. multiply_numbers 
-4. divide_numbers_float 
-5. divide_numbers_floor
-6. power_numbers
-7. mode_numbers
+1. add_number
+2. subtract_number
+3. multiply_number 
+4. divide_number_float 
+5. divide_number_floor
+6. exponential_number
+7. mode_number
 
 ## Video Usage Guide
-A video usage guide is provided via this link [YouTube Link](https://www.youtube.com/channel/UCsI1eKRkwDGKwBgwTD6_hnQ)
+A video usage guide is provided via this link [YouTube Link](https://www.youtube.com)
 
 ## License
-Copyright 2021 KenBroTech
+Copyright 2022 Scofield
 
 This repository is licensed under MIT license.
 See LICENSE for details.
@@ -62,5 +62,5 @@ See LICENSE for details.
 Change Log
 ==========
 
-1.2 (24/07/2021)
+1.0 (21/12/2022)
 

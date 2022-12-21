@@ -3,7 +3,7 @@ basic python arithmetic operations.
 
 ## Installation
 ```
-pip install easycal
+pip install aktcal
 
 ```
 
@@ -11,8 +11,8 @@ pip install easycal
 A guide to using the add_numbers function is as follows
 
 ```
-import easycal
-add_num = easycal.add_numbers(3, 7) # where 3 and 7 are the number you want to add
+import aktcal
+add_num = aktcal.add_numbers(3, 7) # where 3 and 7 are the number you want to add
 print(add_num)
 
 ```

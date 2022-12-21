@@ -15,7 +15,7 @@ classifiers = [
 ]
 
 setup(
-    name='easycal',
+    name='aktcal',
     version='1.0',
     description='This is a simple library that performs basic python arithmetic operations.',
     long_description=open('README.md').read() + '\n\n' +
